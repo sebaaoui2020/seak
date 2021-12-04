@@ -64,7 +64,7 @@ connect to the next, then the gun. If not, connect the detector straight to the 
         },
         {
             "title": "Repeater ",
-            "description": "This is a simple, and sometimes useless, addition. If you are using a toggle, 
+            "description": "This is a simplef, and sometimes useless, addition. If you are using a toggle, 
 do not ignore this.
 
 This is a simple connection from the gun back to the lasers. When the gun 
