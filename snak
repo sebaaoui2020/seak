@@ -39,30 +39,42 @@
         "url": "https://sites.google.com/view/seaky-tips/home"
     },
     "GuideContent": [
-        {
-            "title": "Game Features",
-            "description": "When the player gets the key, opens the door, and all players arrive, the level can be cracked. However, each level requires concerted efforts and mutual cooperation to complete."
+        {"title": "Detection",
+            "description": "Choose a gun. Bigger, unmovable weapons work best, like turrets. Then, get 3 
+lasers and detectors. Resize them, or keep them the same size. For this one, 
+I scaled them down so they could fit behind the gun. "
         },
         {
-            "title": "How to play pico park",
-
-            "description": " At the beginning of the game, there is a switch in the front. The function of the switch is to alternately connect the left and right roads. In fact, you can pass the level in fewer steps without touching the switch. First, let the little girl enter the yellow light, and switch to let the ghost reach the other yellow light. At the place, purple light and green fog appeared."
-        },
-        {
-            "title": "How much is pico park",
-            "description": " is an online action decryption game, so how much is the price of this game?
-I guess you are not sure about it. The following is an introduction to the price of PICO PARKsteam."
-        },
-        {
-            "title": "Its rules",
+            "title": "Make delays",
+            "description": "Any small item should work, however I haven't confirmed this. Delays should 
+order the shots instead of making them all fire at the same time. 
+I used Weapons+ nails for these 
+For the first shot, the detector should be connected to the gun directly. 
+After that, add one delay until you get the number of bursts you want."
  
-            "description": " are very simple: "get all the keys to achieve the goal", but in all 48 levels there are special designs for multiplayer games. In most levels, different designs will come as you move forward. You need to communicate well with your teammates and think about new ways of cooperation."
         },
         {
-            "title": "Game highlights",
-            "description": "There are many level tasks, and each kitty has its own tasks that need to be completed.
- When necessary, you need to control the cat to stack up to complete some difficult movements.
- A park with only cats, and you, as the host, can take them to play. "
+            "title": " Wires",
+            "description": "Here it gets slightly more difficult. Connect activation wires from the 
+detectors to either the delays or the gun.
+
+For delays, connect the detector to the delay, and (if there is another), 
+connect to the next, then the gun. If not, connect the detector straight to the gun."
+        },
+        {
+            "title": "Repeater ",
+            "description": "This is a simple, and sometimes useless, addition. If you are using a toggle, 
+do not ignore this.
+
+This is a simple connection from the gun back to the lasers. When the gun 
+activates, this will disable the laser that just fired. "
+        },
+        {
+            "title": "Activator",
+            "description": "This is anything that is used to activated the gun. Simply connect this to 
+the lasers. Not too difficult.
+The gun with not fire if the detectors do not have collision.
+The gun may not work well if not frozen. "
         }
     ]
 }
