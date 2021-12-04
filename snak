@@ -39,7 +39,8 @@
         "url": "https://sites.google.com/view/seaky-tips/home"
     },
     "GuideContent": [
-        {"title": "Detection",
+        {
+            "title": "Detection",
             "description": "Choose a gun. Bigger, unmovable weapons work best, like turrets. Then, get 3 
 lasers and detectors. Resize them, or keep them the same size. For this one, 
 I scaled them down so they could fit behind the gun. "
