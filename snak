@@ -40,42 +40,29 @@
     },
     "GuideContent": [
         {
-            "title": "Detection",
-            "description": "Choose a gun. Bigger, unmovable weapons work best, like turrets. Then, get 3 
-lasers and detectors. Resize them, or keep them the same size. For this one, 
-I scaled them down so they could fit behind the gun. "
+            "title": " Sneaky Sasquatch tips",
+            "description": "In our Sneaky Sasquatch tips and tricks guide, we will go over the basics of sneaking around the campground, and also we have a full guide on how to get all of the treasure map pieces to complete the game. Let’s get started with our Sneaky Sasquatch cheats, tips and tricks strategy guide to finding all treasure map pieces."
         },
         {
-            "title": "Make delays",
-            "description": "Any small item should work, however I haven't confirmed this. Delays should 
-order the shots instead of making them all fire at the same time. 
-I used Weapons+ nails for these 
-For the first shot, the detector should be connected to the gun directly. 
-After that, add one delay until you get the number of bursts you want."
+            "title": "Sneak around and explore",
+            "description": "In Sneaky Sasquatch, your goal is to roam around the campground looking for tasty treats… that is of course, until you must fight to defend the national park from being destroyed!
+
+But that can wait for another day. The first and most important objective in Sneaky Sasquatch is to always have food on hand."
  
         },
         {
-            "title": " Wires",
-            "description": "Here it gets slightly more difficult. Connect activation wires from the 
-detectors to either the delays or the gun.
-
-For delays, connect the detector to the delay, and (if there is another), 
-connect to the next, then the gun. If not, connect the detector straight to the gun."
+            "title": "Do not stay up past your bedtime",
+            "description": "Sasquatch is just like us, so he needs to eat and get enough sleep so that he can adventure the next day. Sneaky Sasquatch has a day and night cycle – as you explore the park, time will pass naturally on its own, and the brightness will go down as the sun begins to set."
         },
         {
-            "title": "Repeater ",
-            "description": "This is a simplef, and sometimes useless, addition. If you are using a toggle, 
-do not ignore this.
+            "title": "Buy the essentials firs",
+            "description": "Raccoon’s shop has a plethora of random goodies that he has collected around the park. Since getting some coins is a little tricky, you might want to start off with the essential items first.
 
-This is a simple connection from the gun back to the lasers. When the gun 
-activates, this will disable the laser that just fired. "
+The first thing you should get is the Map. The Map lets you see where all of major landmarks of the park are, and it also offers you a quick teleport back to Sasquatch’s home. This is a must have to cut down on backtracking."
         },
         {
-            "title": "Activator",
-            "description": "This is anything that is used to activated the gun. Simply connect this to 
-the lasers. Not too difficult.
-The gun with not fire if the detectors do not have collision.
-The gun may not work well if not frozen. "
+            "title": "Keep an eye out for secret caches",
+            "description": "If you peek around every corner of the park, you are bound to come across a hidden path that usually leads to a secret cache. Secret caches are red boxes with a tree on them, and they contain a hefty amount of coins inside so they are worth your time to search for them. "
         }
     ]
 }
